@@ -1,6 +1,6 @@
 # challenge-blackBoxVision
 
-![Image Text](https://postimg.cc/PpmLJW1p)
+![Image Text](https://i.imgur.com/rx7lcOs.png)
 
 Demo : https://challenge-black-box-vision.vercel.app/ <br>
 Challenge: https://github.com/goncy/blackbox-vision-challenge <br>
