@@ -1,6 +1,6 @@
 # challenge-blackBoxVision
 
-![Image Text](https://raw.githubusercontent.com/goncy/tradehelm-challenge/main/specs/vacio.png)
+![Image Text](https://postimg.cc/PpmLJW1p)
 
 Demo : https://challenge-black-box-vision.vercel.app/ <br>
 Challenge: https://github.com/goncy/blackbox-vision-challenge <br>
