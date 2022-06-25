@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import 'app.css'
+import './app.css'
 import Button from "./components/button/Button"
 import QuestionCard from "./components/questionCard/QuestionCard"
 import getQuestions from "./services/api";
