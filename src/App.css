@@ -5,6 +5,13 @@
     background-color: black;
 }
 
+#root{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
 .contenedor{
     display: flex;
     align-items: center;
@@ -30,7 +37,37 @@
 }
 
 .loading{
-   color: white;
-    text-align: center;
-    margin-top: 200px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
+
+.final{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 25px;
+    text-shadow:
+    1px 5px 4px rgba(0,0,0,.3), 
+    0 0 2px rgba(255,255,255,1), 
+    0 0 10px rgba(255,255,255,1), 
+    0 0 20px rgba(255,255,255,1), 
+    0 0 30px rgba(255,255,255,1), 
+    0 0 40px #ff00de, 
+    0 0 70px #ff00de, 
+    0 0 80px #ff00de,
+    0 0 100px #ff00de;
+}
+
+.correct,
+  .correct:hover {
+    background-color: green;
+  }
+  
+  .incorrect,
+  .incorrect:hover {
+    background-color: red;
+  }
+  

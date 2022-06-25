@@ -5,7 +5,7 @@
 
 .category{
     color: white;
-    background-color: #ED3C80;
+    background-color: #e63277;
     border-radius: 5px;
     padding: 10px 0;
     font-weight: 600;
@@ -19,9 +19,10 @@
 
 .question{
     display: flex;
+    align-items: center;
+    justify-content: center;
     max-width: 400px;
     margin-top: 20px;
-    margin-left: 17px;
     background-color: white;
     padding: 50px 10px;
     font-size: 20px;
